@@ -5,7 +5,7 @@
         <Author name="Emissary" />
         <Description text="Displays the Ability ID in Ability Tooltips" />
         <Dependencies>
-            <!-- List any dependencies your addon might have, or remove this section if there are none -->
+            <Dependency name="EASystem_Tooltips" />
         </Dependencies>
         <Files>
             <File name="AbilityIDTooltip.lua" />

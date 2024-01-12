@@ -47,6 +47,3 @@ function AbilityIDTooltip.Shutdown()
         Tooltips.CreateAbilityTooltip = AbilityIDTooltip.OriginalCreateAbilityTooltip
     end
 end
-
--- Register the addon initialization
-RegisterEventHandler(SystemData.Events.LOADING_END, "AbilityIDTooltip.Initialize")

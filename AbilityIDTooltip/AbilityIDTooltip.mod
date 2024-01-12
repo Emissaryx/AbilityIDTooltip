@@ -13,17 +13,17 @@
         </Files>
         
         <SavedVariables>
-            <!-- Define any saved variables here, or remove this section if your addon doesn't use them -->
+            <!-- Define any saved variables here, or remove this section if my addon doesn't use them -->
         </SavedVariables> 
         
         <OnInitialize>
             <CallFunction name="AbilityIDTooltip.Initialize" />
         </OnInitialize>
         <OnUpdate>
-            <!-- If your addon requires constant updates, specify the update function here -->
+            <!-- If my addon requires constant updates, specify the update function here -->
         </OnUpdate>
         <OnShutdown>
-            <!-- If your addon needs to perform cleanup on shutdown, specify the shutdown function here -->
+            <!-- If my addon needs to perform cleanup on shutdown, specify the shutdown function here -->
         </OnShutdown>
     </UiMod>
 </ModuleFile>

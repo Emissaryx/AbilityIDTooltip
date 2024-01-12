@@ -10,8 +10,8 @@
         <Files>
             <File name="AbilityIDTooltip.lua" />
             <<!--
-			<File name="AbilityIDTooltip.xml" />
-			-->
+	    <File name="AbilityIDTooltip.xml" />
+	     -->
         </Files>
         
         <SavedVariables>

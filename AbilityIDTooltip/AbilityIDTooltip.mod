@@ -2,7 +2,7 @@
 <ModuleFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <UiMod name="AbilityIDTooltip" version="1.0" date="11/1/2024">
         <VersionSettings gameVersion="1.4.8" windowsVersion="1.0" savedVariablesVersion="1.0" /> 
-        <Author name="YourName" />
+        <Author name="Emissary" />
         <Description text="Displays the Ability ID in Ability Tooltips" />
         <Dependencies>
             <!-- List any dependencies your addon might have, or remove this section if there are none -->
